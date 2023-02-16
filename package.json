@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cmadrid48/thouShallNotReadMe/issues"
   },
-  "homepage": "https://github.com/cmadrid48/thouShallNotReadMe#readme"
+  "homepage": "https://github.com/cmadrid48/thouShallNotReadMe#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
 }
