@@ -1,0 +1,19 @@
+{
+  "name": "9-thoushallnotreadme",
+  "version": "1.0.0",
+  "description": "Certified READme Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmadrid48/thouShallNotReadMe.git"
+  },
+  "author": "Carlos Madrid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmadrid48/thouShallNotReadMe/issues"
+  },
+  "homepage": "https://github.com/cmadrid48/thouShallNotReadMe#readme"
+}
