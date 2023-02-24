@@ -12,6 +12,11 @@ This is a simple Node.js command-line application that generates a README file b
 -[Questions](#questions)
 ## Installation
 To use this tool, you will need to have Node.js installed on your system. Once you have Node.js installed, follow these steps:
+Clone this repository to your local machine
+Open a terminal and navigate to the project directory
+Run the command npm install to install the necessary dependencies
+## Usage
+[![Usage example video provided here]](https://drive.google.com/file/d/1qTdaifA21EfN3YcjMqkpbyddPmNJDvnb/view)
 ## Contributing
 NA
 ## Tests
